@@ -1,0 +1,1 @@
+SELECT * FROM entries ORDER BY date_ DESC LIMIT 1
